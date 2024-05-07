@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: 'git@github.com:Carl-Elastisys/test-argo-tanzu.git' ################# CHANGE ME
+    repoURL: 'git@github.com:visbltSE/v-argocd-test.git' ################# CHANGE ME
     path: user-demo/deploy/ck8s-user-demo
     targetRevision: HEAD
   destination:
